@@ -1,8 +1,12 @@
-<h2 align="center">Hi 👋! My name is Gaurav Chauhan</h2>
-<h4 align="center">I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in building, automating, and optimizing systems that enhance software delivery processes. With a strong foundation in DevOps tools and cloud technologies, I am driven to implement innovative solutions that streamline workflows, ensure scalability, and deliver high-quality applications efficiently.</h4>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Chauhan!;+A+DevOps+and+DevSecOps+Engineer!&color=FF5733" />
+</h1>
+<h2>
+  <p align="center">
+I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in building, automating, and optimizing systems that enhance software delivery processes. With a strong foundation in DevOps tools and cloud technologies, I am driven to implement innovative solutions that streamline workflows, ensure scalability, and deliver high-quality applications efficiently.
+  </p>
+</h2>
 
-
-### 
 
 <br clear="both">
 
@@ -48,6 +52,9 @@
 </a>
 <a href="https://github.com/tonistiigi/trivy">
   <img src="https://trivy.dev/v0.46/imgs/logo.png" alt="Trivy" width="40" height="40">
+</a>
+  <a href="https://static-00.iconduck.com/assets.00/prometheus-icon-1023x1024-guji27wq.png">
+  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-1023x1024-guji27wq.png" alt="Prometheus Icon" width="40" height="40">
 </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
