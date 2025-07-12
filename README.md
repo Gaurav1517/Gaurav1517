@@ -94,7 +94,7 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
 
 Feel free to reach out for any queries or suggestions:  
 - **DevOps:** Gaurav  
-- **Email:** gauravchauhan0854@gmail.com  
+- **Email:** gaurav.cloud000@gmail.com  
 - 🌐 **Portfolio:** 
 
 
