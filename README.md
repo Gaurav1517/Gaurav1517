@@ -54,7 +54,7 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
   <img src="https://trivy.dev/v0.46/imgs/logo.png" alt="Trivy" width="40" height="40">
 </a>
   <a href="https://static-00.iconduck.com/assets.00/prometheus-icon-1023x1024-guji27wq.png">
-  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-1023x1024-guji27wq.png" alt="Prometheus Icon" width="40" height="40">
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus Icon" width="40" height="40">
 </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
@@ -95,7 +95,7 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
 Feel free to reach out for any queries or suggestions:  
 - **DevOps:** Gaurav  
 - **Email:** gaurav.cloud000@gmail.com  
-- 🌐 **Portfolio:** 
+-  **Linkedin:** https://www.linkedin.com/in/gauravchauhan1517/ 
 
 
 ---
