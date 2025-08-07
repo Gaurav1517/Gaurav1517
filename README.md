@@ -68,6 +68,12 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  <a href="https://www.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/windows/terminal/install" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/432602/terminal-alt.svg" alt="terminal" width="40" height="40"/> 
+  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
