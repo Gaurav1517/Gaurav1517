@@ -23,6 +23,9 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+  <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer"> 
+    <img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" alt="azure" width="40" height="40"/> 
+  </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
