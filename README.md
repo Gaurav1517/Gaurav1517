@@ -54,13 +54,16 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
   <img src="https://www.svgrepo.com/show/448253/terraform.svg" alt="Terraform" width="40" height="40">
 </a>
 <a href="https://github.com/tonistiigi/trivy">
-  <img src="https://trivy.dev/v0.46/imgs/logo.png" alt="Trivy" width="40" height="40">
+  <img src="https://trivy.dev/v0.46/imgs/logo.png" alt="Trivy" width="60" height="50">
 </a>
   <a href="https://static-00.iconduck.com/assets.00/prometheus-icon-1023x1024-guji27wq.png">
   <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus Icon" width="40" height="40">
 </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+  </a>
+  <a href="https://grafana.com/docs/loki/latest/" target="_blank" rel="noreferrer">
+    <img src="https://grafana.com/media/solutions/loki-monitor/loki-icon.png" alt="loki" width="40" height="40"/> 
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
@@ -78,10 +81,13 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
     <img src="https://www.svgrepo.com/show/432602/terminal-alt.svg" alt="terminal" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="80"/> 
+  </a> 
+  <a href="https://www.mongodb.com/docs/manual/" target="_blank" rel="noreferrer">
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" width="100" height="32"/> 
   </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -92,7 +98,7 @@ I am a passionate and dedicated DevOps and Cloud Engineer aspiring to excel in b
   <img src="https://i0.wp.com/leeno.org/wp-content/uploads/2018/06/GitLab_Logo.svg_.png?fit=960%2C887&ssl=1" alt="GitLab" width="40" height="40">
 </a>
 <a href="https://cdn.freelogovectors.net/wp-content/uploads/2021/07/owasp_logo-freelogovectors.net_.png">
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/07/owasp_logo-freelogovectors.net_.png" alt="OWASP" width="40" height="40">
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/07/owasp_logo-freelogovectors.net_.png" alt="OWASP" width="100" height="32">
 </a>
 </p>
 </div>
