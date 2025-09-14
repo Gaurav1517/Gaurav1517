@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Chauhan!;+A+DevOps+and+DevSecOps+Engineer!&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Chauhan!;+A+DevOps+and+Cloud+Engineer!&color=FF5733" />
 </h1>
 <h2>
   <p align="center">
